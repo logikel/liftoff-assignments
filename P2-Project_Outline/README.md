@@ -23,9 +23,9 @@ as well, if I'm feeling ambitious.
 
 ### Features
 
-User login: Users will be able to create accounts in order to view private profiles as well as create new ones and manage their privacy settings
+User profile: Users will be able to create accounts in order to view private profiles as well as create new ones and manage their privacy settings
 Search: Users will be able to search through profiles made by other users
-Database: Store and recall character profiles
+Authentication: Login services
 
 ### Technologies
 
